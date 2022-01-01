@@ -11,7 +11,7 @@ Rather than creating a Matlab script, I wanted to learn how to create a Matlab A
 * Basic I2C Protocol
 * Serial Communication
 * Accelerometers
-* Matlab
+* Matlab App Designer
 * Arduino
 
 ## Equipment
